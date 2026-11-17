@@ -1,6 +1,6 @@
 # Query provenance
 
-ProvLab shows how a finite positive query derives each answer. Compare its
+Query provenance shows how a finite positive query derives each answer. Compare its
 provenance polynomial, bag multiplicity and presence probability under supplied
 independent base-tuple events. Reusing a fact in a query does not create another
 independent chance for it to exist.
@@ -82,7 +82,7 @@ Original project code and tiny fixtures under MIT. Classical semantics are credi
 
 Compare safe single conjunctive queries in both directions with reverse homomorphisms, full canonical counterexamples, and every atom-subset minimum. Set equivalence is explicitly contrasted with bag counts and natural provenance. The 0.1 data-provenance engine remains separate. See the method for exact bounds, classical sources and finite reference checks.
 
-## ProvLab 0.3: containment under supplied constraints
+## Query provenance 0.3: containment under supplied constraints
 
 A separate finite [full-rule/key chase workbench](https://midya8.github.io/query-provenance/chase.html) adds constraint-relative containment, a complete fact/merge trace, ordered-head substitution, valid saturated counterexamples and explicitly labeled literal-clash vacuity. It tests every dependency subset and distinguishes inclusion-minimal supports from minimum-cardinality supports. The default needs both a key and a diagonal full rule; neither alone proves the rewrite. A separate control has a one-rule minimum support and a two-rule inclusion-minimal support.
 
