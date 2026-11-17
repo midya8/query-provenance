@@ -1,6 +1,6 @@
 # ProvLab0.2: a rewrite has to work everywhere
 
-[Interactive containment lab](https://midya8.github.io/provlab/containment.html). Original MIT implementation of classical set-CQ containment, frozen canonical counterexamples and minimum atom-subset queries. The0.1 data-provenance engine and UI remain separate and unchanged except for a navigation link.
+[Interactive containment lab](https://midya8.github.io/query-provenance/containment.html). Original MIT implementation of classical set-CQ containment, frozen canonical counterexamples and minimum atom-subset queries. The0.1 data-provenance engine and UI remain separate and unchanged except for a navigation link.
 
 ## The decision
 
